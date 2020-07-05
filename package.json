@@ -1,0 +1,17 @@
+{
+  "name": "maximum-subarray",
+  "version": "1.0.0",
+  "description": "Maximum subarray algorithm written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "@uloureiro",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
